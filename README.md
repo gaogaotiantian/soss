@@ -63,4 +63,4 @@ python soss.py download -k my_password --output_dir ./data text.txt image.png
 
 Copyright 2024 Tian Gao.
 
-Distrubuted under the terms of the [Apache 2.0 license](LICENSE)
+Distributed under the terms of the [Apache 2.0 license](LICENSE)
